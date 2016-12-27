@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>JournalingModeNoCommandDataCommand</Text>
+    <Description></Description>
+    <Assembly>JournalModeTest.dll</Assembly>
+    <FullClassName>JournalModeTest.JournalingModeNoCommandDataCommand</FullClassName>
+    <ClientId>5fe25c77-0532-49e8-a629-5c5606032884</ClientId>
+    <VendorId>TBC_</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+
+  <AddIn Type="Command">
+    <Text>JournalingModeUsingCommandData</Text>
+    <Description></Description>
+    <Assembly>JournalModeTest.dll</Assembly>
+    <FullClassName>JournalModeTest.JournalingModeUsingCommandData</FullClassName>
+    <ClientId>152EE89C-6296-4B44-8579-3F5B5669F5A5</ClientId>
+    <VendorId>TBC_</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
